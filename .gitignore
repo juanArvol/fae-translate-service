@@ -28,3 +28,15 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Docker
+*.tar
+*.tar.gz
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local Argos data
+argos-packages/
